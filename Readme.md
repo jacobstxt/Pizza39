@@ -36,6 +36,6 @@
 ## 🧠 Автор
 **Максим Баран**  
 👨‍💻 Full-Stack Developer (React + ASP.NET Core)  
-📫 [GitHub](https://github.com/jacobstxt) • [LinkedIn](https://linkedin.com/in/maksym-baran)
+📫 [GitHub](https://github.com/jacobstxt) • [LinkedIn](https://www.linkedin.com/in/maksym-baran-0b5667332/)
 
 
