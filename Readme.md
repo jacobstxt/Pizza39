@@ -12,6 +12,7 @@
   <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>    
   <img alt="TailwindCss" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />           
   <img alt="Ant Design" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"/>
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />        
 </div>
 
 ---
