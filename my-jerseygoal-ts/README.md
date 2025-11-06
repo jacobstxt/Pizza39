@@ -15,7 +15,7 @@
 ## Запуск
 
 ### Клонування репозиторію
-git clone https://github.com/jacobstxt/pizza39_client.git
+git clone https://github.com/jacobstxt/Pizza39
 
 ### Встановлення залежностей
 npm install
