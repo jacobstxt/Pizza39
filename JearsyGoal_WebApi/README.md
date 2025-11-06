@@ -14,7 +14,7 @@
 
 
 ### Клонування репозиторію
-git clone https://github.com/jacobstxt/pizza39_backend.git
+git clone https://github.com/jacobstxt/Pizza39
 
 ### Відновлення пакетів
 dotnet restore
